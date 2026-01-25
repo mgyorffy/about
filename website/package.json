@@ -31,7 +31,7 @@
     "gatsby-transformer-remark": "^5.25.1",
     "jquery": "^3.6.0",
     "js-cookie": "^2.2.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mdi-react": "^7.5.0",
     "popper.js": "^1.16.1",
     "prismjs": "^1.25.0",
